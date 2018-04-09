@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+archive/
+npm-debug.log
+bin/
+!bin/currencytrader.zip
+*.js
+*.map
+!webpack.config.js
+backtester/data/*
+backtester/charts/*
+.vscode/*
